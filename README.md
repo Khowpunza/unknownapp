@@ -7,3 +7,4 @@ This is an unknown application written in Java
 ### Flowchart of the main workflow
 ![Image](picture/lab11.png)
 ### Prompts
+Make me a python program base on the student menu can do and create python folder and put in that.
