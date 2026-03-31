@@ -5,5 +5,5 @@ This is an unknown application written in Java
 ### Use Case Diagram
 ![Image](picture/week%2011%20lab.drawio.png)
 ### Flowchart of the main workflow
-
+![Image](picture/lab11.png)
 ### Prompts
